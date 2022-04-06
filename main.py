@@ -21,7 +21,7 @@ def sports():
 @app.route('/acadimic')
 def acadimic():
 
-    return render_template("acadimic.html")
+    return render_template("acadimicupdate.html")
 
 @app.route('/art')
 def art():
